@@ -11,7 +11,7 @@ Email Address: shrimathiravi44@gmail.com
 Task Chosen: Task 1 (MathQuest AI — 3D Gamified Mathematics Learning Platform for Grade 5 & Grade 6)
 Live Demo URL: https://drive.google.com/file/d/1yoSB-eAMH4G22OQfCt4xcH1ZXFCoXlDY/view?usp=sharing
 Live URL: math-quest-ai-beta.vercel.app
-GitHub Repository URL (Optional): https://github.com/shrimathiravi07/MathQuest-AI
+GitHub Repository URL (Optional): https://github.com/shrimathiravi07/MathQuest-AI-APP.git
 
 ================================================================================
 SUBMISSION ATTACHMENTS & PACKAGING INSTRUCTIONS:
