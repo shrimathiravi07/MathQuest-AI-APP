@@ -1,0 +1,129 @@
+{
+  "leo5": {
+    "username": "leo5",
+    "display_name": "Leo the Fraction Finder",
+    "password_key": "password123",
+    "grade": 5,
+    "avatar": "🦊",
+    "stars": 55,
+    "completed_lessons": [
+      "fractions",
+      "decimals"
+    ],
+    "quiz_scores": {
+      "fractions": 4,
+      "decimals": 3,
+      "ratios": 0,
+      "shapes": 0
+    },
+    "badges": [
+      "first_login",
+      "star_collector",
+      "pizza_master",
+      "island_explorer"
+    ]
+  },
+  "maya6": {
+    "username": "maya6",
+    "display_name": "Maya the Crystal Sage",
+    "password_key": "password123",
+    "grade": 6,
+    "avatar": "🤖",
+    "stars": 81,
+    "completed_lessons": [
+      "fractions",
+      "decimals",
+      "ratios",
+      "shapes"
+    ],
+    "quiz_scores": {
+      "fractions": 4,
+      "decimals": 4,
+      "ratios": 4,
+      "shapes": 3
+    },
+    "badges": [
+      "first_login",
+      "crystal_diviner",
+      "ratio_pilot",
+      "geometry_titan",
+      "math_legend",
+      "island_explorer",
+      "star_collector"
+    ]
+  },
+  "sam5": {
+    "username": "sam5",
+    "display_name": "Sam Explorer",
+    "password_key": "password123",
+    "grade": 5,
+    "avatar": "🦊",
+    "stars": 10,
+    "completed_lessons": [
+      "fractions"
+    ],
+    "quiz_scores": {
+      "fractions": 2,
+      "decimals": 0,
+      "ratios": 0,
+      "shapes": 0
+    },
+    "badges": [
+      "first_login"
+    ]
+  },
+  "tester_43f5b9": {
+    "username": "tester_43f5b9",
+    "display_name": "Test Explorer",
+    "password_key": "mypassword123",
+    "grade": 5,
+    "avatar": "🦊",
+    "stars": 1,
+    "completed_lessons": [],
+    "quiz_scores": {
+      "fractions": 0,
+      "decimals": 0,
+      "ratios": 0,
+      "shapes": 0
+    },
+    "badges": [
+      "first_login"
+    ]
+  },
+  "tester_804de6": {
+    "username": "tester_804de6",
+    "display_name": "Test Explorer",
+    "password_key": "mypassword123",
+    "grade": 5,
+    "avatar": "🦊",
+    "stars": 1,
+    "completed_lessons": [],
+    "quiz_scores": {
+      "fractions": 0,
+      "decimals": 0,
+      "ratios": 0,
+      "shapes": 0
+    },
+    "badges": [
+      "first_login"
+    ]
+  },
+  "leotest5": {
+    "username": "leotest5",
+    "display_name": "Leo Test",
+    "password_key": "password123",
+    "grade": 5,
+    "avatar": "🦊",
+    "stars": 1,
+    "completed_lessons": [],
+    "quiz_scores": {
+      "fractions": 0,
+      "decimals": 0,
+      "ratios": 0,
+      "shapes": 0
+    },
+    "badges": [
+      "first_login"
+    ]
+  }
+}

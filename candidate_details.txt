@@ -1,0 +1,23 @@
+================================================================================
+CANDIDATE DETAILS (MANDATORY SUBMISSION FILE)
+================================================================================
+
+Full Name: Shrimathi R
+Register Number: 921023243018
+College Name and Department: Nadar Saraswathi College of Engineering and Technology, Theni — Department of Artificial Intelligence & Data Science (B.Tech - AI & DS)
+Year of Study / Expected Graduation Year: 4th Year (2023 - 2027) / Expected Graduation Year: 2027
+Mobile Number: 9080541917
+Email Address: shrimathiravi44@gmail.com
+Task Chosen: Task 1 (MathQuest AI — 3D Gamified Mathematics Learning Platform for Grade 5 & Grade 6)
+Live Demo URL: https://drive.google.com/file/d/1yoSB-eAMH4G22OQfCt4xcH1ZXFCoXlDY/view?usp=sharing
+Live URL: math-quest-ai-beta.vercel.app
+GitHub Repository URL (Optional): https://github.com/shrimathiravi07/MathQuest-AI
+
+================================================================================
+SUBMISSION ATTACHMENTS & PACKAGING INSTRUCTIONS:
+================================================================================
+1. Resume File (Included in ZIP root): Shrimathi_R_Resume.pdf
+2. Candidate Details File (Included in ZIP root): candidate_details.txt
+3. Submission ZIP File Name: Shrimathi_R_[RegisterNumber]_Task1.zip
+   (e.g., Shrimathi_R_921023243018_Task1.zip)
+================================================================================
