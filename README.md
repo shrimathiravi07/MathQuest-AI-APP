@@ -2,7 +2,6 @@
 
 MathQuest AI is an educational 3D mathematics adventure web application designed specifically for Grade 5 and Grade 6 students. It combines Three.js 3D fantasy islands, interactive math manipulatives (pizza fraction slicing, decimal balloon popping, potion ratio mixing, and 3D geometric solid orbit), Web Audio synthesized sound effects, text-to-speech narration, gamified rewards (stars and badges), and a Python FastAPI backend integrated with Google Gemini AI.
 
----
 
 ## 1. Actual Technology Stack
 
@@ -25,12 +24,12 @@ MathQuest AI is an educational 3D mathematics adventure web application designed
 - **Deployment:**
   - Render (`render.yaml`)
 
----
+
 
 ## 2. Project Structure
 
-```
-GMAPP/
+
+MathQuizz-Ai-App/
 ├── backend/
 │   ├── app/
 │   │   ├── __init__.py          # Package initializer
